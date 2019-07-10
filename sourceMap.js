@@ -1,9 +1,4 @@
-let inst = 0;
-let inst1 = 3;
-console.log(3);
+let inst;
 
-stop.apply
-cancel
-method_name: function(attribute) {
-	
-},
+XMLDocument.apply
+SpeechRecognitionResultList
