@@ -9,4 +9,4 @@ method_name: function(attribute) {
 =======
 XMLDocument.apply
 
-fg 
+fg 多谢支持过不多多多多多多多多多多多多多多多多深圳打算  安分           
