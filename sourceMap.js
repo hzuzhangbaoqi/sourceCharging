@@ -8,8 +8,5 @@ method_name: function(attribute) {
 },换个想法就放下工作负担只能
 =======
 XMLDocument.apply
-EGSD
-fg 4
-FNDFNDZFHFDZDHDAFZHJRTFGZJ5434
-341
-HHRHHRHHHHHH;L;
+
+fg 
