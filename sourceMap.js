@@ -9,4 +9,8 @@ method_name: function(attribute) {
 =======是v这东西v从地上
 XMLDocument.apply
 
+<<<<<<< HEAD
 fg 多谢支持过不多多多多多多多多多多多多多多多多深圳打算  安分       现在在深V是啊     
+=======
+fg 
+>>>>>>> db7113ebb244447e351297c9dada1af325b7d61c
