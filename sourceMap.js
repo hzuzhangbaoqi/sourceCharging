@@ -1,5 +1,1 @@
 let inst;
-<<<<<<< HEAD
-
-<<<<<<< HEAD
-
