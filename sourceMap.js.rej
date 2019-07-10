@@ -1,0 +1,7 @@
+diff a/sourceMap.js b/sourceMap.js	(rejected hunks)
+@@ -9,3 +9,4 @@
+ =======
+ XMLDocument.apply
+ 
++fg 
+\ No newline at end of file
